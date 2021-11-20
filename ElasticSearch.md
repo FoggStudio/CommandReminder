@@ -1,3 +1,5 @@
+[<- Home](README.md)
+
 # ElasticSearch
 ## Informations
 By default ElasticSearch will be on port 9200 and Kibana on port 5601.

@@ -1,3 +1,5 @@
+[<- Home](README.md)
+
 # Linux
 ## General
 Moving to precedent directory: `cd -`  
